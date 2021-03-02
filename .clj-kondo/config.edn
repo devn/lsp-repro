@@ -1,0 +1,2 @@
+{:lint-as {outpace.config/defconfig! clojure.core/def
+           outpace.config/defconfig clojure.core/def}}
